@@ -13,7 +13,7 @@ const capabilities = {
   browserVersion: "latest",
   "LT:Options": {
     platform: process.env.HYPEREXECUTE_PLATFORM,
-    build: "Mahesh Vemula Playwright TS Build",
+    build: "Ravi Kumar Playwright TS Build",
     name: "Playwright Test",
     user: process.env.LT_USERNAME,
     accessKey: process.env.LT_ACCESS_KEY,

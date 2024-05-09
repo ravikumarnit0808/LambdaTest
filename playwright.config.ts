@@ -5,7 +5,7 @@ import { devices } from "@playwright/test";
 const config: PlaywrightTestConfig = {
   testDir: "tests",
   // testMatch: ["tests\loginTest.spec.ts"],
-  timeout: 120000,
+  timeout: 60000,
   use: {},
   projects: [
     // -- LambdaTest Config --
